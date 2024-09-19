@@ -3,9 +3,9 @@ package main
 import (
     "github.com/gin-contrib/cors"
     "github.com/gin-gonic/gin"
-    "github.com/spaaws/book-api/config"
-    "github.com/spaaws/book-api/models"
-    "github.com/spaaws/book-api/routes"
+    "github.com/Rhodoryus/API-BOOK/config"
+    "github.com/Rhodoryus/API-BOOK/models"
+    "github.com/Rhodoryus/API-BOOK/routes"
     "os"
 )
 

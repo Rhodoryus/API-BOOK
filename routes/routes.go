@@ -2,7 +2,7 @@ package routes
 
 import (
     "github.com/gin-gonic/gin"
-    "github.com/spaaws/book-api/controllers"
+    "github.com/Rhodoryus/API-BOOK/controllers"
 )
 
 func SetupRoutes(r *gin.Engine) {
